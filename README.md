@@ -2,13 +2,13 @@ Le projet: Taquin(puzzle)
 
 ## Membre de l'equipe:
 
-- Abdoulaye Djibril    DIALLO		22112788
+- Abdoulaye Djibril    DIALLO
 
-- Mamady 		DJIGUINE	22110369
+- Mamady 		DJIGUINE
 
-- Mamadou Alpha 	DIALLO		22107614
+- Mamadou Alpha 	DIALLO
 
-- Elhadj Alseiny 	DIALLO		22011830
+- Elhadj Alseiny 	DIALLO
 
 ## Mode d'emploie
 
